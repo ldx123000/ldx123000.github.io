@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ldx123000.github.io/zh-cn/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ldx123000.github.io/zh-cn/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/zh-cn/page/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/page/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/zh-cn/archives/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/archives/"
                 />
   </url><url>
     <loc>https://ldx123000.github.io/zh-cn/categories/</loc>
@@ -60,19 +86,34 @@
     <loc>https://ldx123000.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ldx123000.github.io/zh-cn/page/</loc>
+    <loc>https://ldx123000.github.io/zh-cn/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ldx123000.github.io/page/"
+                href="https://ldx123000.github.io/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ldx123000.github.io/zh-cn/page/"
+                href="https://ldx123000.github.io/zh-cn/tags/emoji/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/zh-cn/p/emoji-%E6%94%AF%E6%8C%81/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/p/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/p/emoji-%E6%94%AF%E6%8C%81/"
                 />
   </url><url>
     <loc>https://ldx123000.github.io/zh-cn/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,6 +135,30 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://ldx123000.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/zh-cn/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/search/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
                 />
   </url>
 </urlset>
