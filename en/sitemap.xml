@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ldx123000.github.io/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ldx123000.github.io/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/about/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/about/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/page/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/page/"
                 />
   </url><url>
     <loc>https://ldx123000.github.io/archives/</loc>
@@ -26,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ldx123000.github.io/archives/"
-                />
-  </url><url>
-    <loc>https://ldx123000.github.io/page/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ldx123000.github.io/zh-cn/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ldx123000.github.io/page/"
                 />
   </url><url>
     <loc>https://ldx123000.github.io/categories/</loc>
@@ -153,19 +166,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ldx123000.github.io/p/emoji-support/"
-                />
-  </url><url>
-    <loc>https://ldx123000.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ldx123000.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ldx123000.github.io/about/"
                 />
   </url><url>
     <loc>https://ldx123000.github.io/links/</loc>
