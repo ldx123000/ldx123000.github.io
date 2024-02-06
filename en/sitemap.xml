@@ -15,6 +15,61 @@
                 href="https://ldx123000.github.io/"
                 />
   </url><url>
+    <loc>https://ldx123000.github.io/categories/</loc>
+    <lastmod>2024-02-06T22:44:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/p/common-shortcuts-in-typora/</loc>
+    <lastmod>2024-02-06T22:44:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/p/typora%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/p/common-shortcuts-in-typora/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/post/</loc>
+    <lastmod>2024-02-06T22:44:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/post/"
+                />
+  </url><url>
+    <loc>https://ldx123000.github.io/categories/shortcuts/</loc>
+    <lastmod>2024-02-06T22:44:30+08:00</lastmod>
+  </url><url>
+    <loc>https://ldx123000.github.io/categories/typora/</loc>
+    <lastmod>2024-02-06T22:44:30+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ldx123000.github.io/zh-cn/categories/typora/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ldx123000.github.io/categories/typora/"
+                />
+  </url><url>
     <loc>https://ldx123000.github.io/about/</loc>
     <lastmod>2024-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,19 +109,6 @@
                 href="https://ldx123000.github.io/archives/"
                 />
   </url><url>
-    <loc>https://ldx123000.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ldx123000.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ldx123000.github.io/categories/"
-                />
-  </url><url>
     <loc>https://ldx123000.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -78,19 +120,6 @@
   </url><url>
     <loc>https://ldx123000.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ldx123000.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://ldx123000.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ldx123000.github.io/post/"
-                />
   </url><url>
     <loc>https://ldx123000.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
